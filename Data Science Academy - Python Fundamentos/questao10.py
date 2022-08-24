@@ -1,2 +1,2 @@
 frase = 'Cientista de Dados é o profissional mais sexy do século XXI'
-print(frase[0])
+frase[1:18]
